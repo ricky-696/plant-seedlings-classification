@@ -1,6 +1,6 @@
 # Plant Seedlings Classification
 
-###[Competition In Kaggle](https://www.kaggle.com/c/plant-seedlings-classification)
+[Competition In Kaggle](https://www.kaggle.com/c/plant-seedlings-classification)
 
 ## File Introduction
  + `Load_data.py` -> Data preprocessing & Define Dataset
@@ -26,4 +26,4 @@
 Last I used VGG16's Pretrained model, and random rotate picture to slove this classification problem
 ![](VGG16_train_loss.jpg)
 ![](VGG16_train_acc.jpg)
-![](kaggle result.png)
+![](kaggle_result.png)
