@@ -27,3 +27,10 @@ Last I used VGG16's Pretrained model, and random rotate picture to slove this cl
 ![](VGG16_train_loss.jpg)
 ![](VGG16_train_acc.jpg)
 ![](kaggle_result.png)
+
+## Reference
+https://www.kaggle.com/code/nikkonst/plant-seedlings-with-cnn-and-image-processing
+https://www.kaggle.com/code/solomonk/pytorch-simplenet-augmentation-cnn-lb-0-945
+https://github.com/pytorch/examples/blob/main/mnist/main.py#L37-L51
+https://www.kaggle.com/code/brightlamp/pytorch-kaggle-quick-qtart-guide-on-plantseedlings/notebook
+https://blog.csdn.net/qq_42951560/article/details/109852790
